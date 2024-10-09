@@ -6,6 +6,7 @@ import ErrorMessage from '../errorMessage/ErrorMessage';
 import Skeleton from '../skeleton/Skeleton';
 
 import './charInfo.scss';
+// import propTypes from 'prop-types';
 
 class CharInfo extends Component {
 
